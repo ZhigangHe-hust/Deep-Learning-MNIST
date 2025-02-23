@@ -90,6 +90,16 @@ python data.py
 
 ## Model Training
 
+Before training, you need to create a folder in the current directory to store the checkpoint file
+
+```
+├─ data.py
+├─ dataloader.py
+├─ ···
+├─ output
+│ ├─ checkpoint
+```
+Input in the terminal
 ```
 python train.py
 ```
@@ -98,7 +108,7 @@ If model training terminates unexpectedly, or you want to add more training roun
 
 ```
 python retrain.py --checkpoint_path output\checkpoint\checkpoint_epoch_N.pth --epochs M
-#M is the total number of training rounds for the final model (default is 10)
+# M is the total number of training rounds for the final model (default is 10)
 # checkpoint_epoch_N is your last checkpoint file
 ```
 

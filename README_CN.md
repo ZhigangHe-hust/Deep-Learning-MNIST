@@ -67,10 +67,19 @@ python data.py
 ```
 
 ## 模型训练
+在训练之前，你需要在当前目录下创建一个文件夹用来存储检查点文件
+```
+├─ data.py
+├─ dataloader.py
+├─ ···
+├─ output
+│    ├─ checkpoint
+```
+在终端输入
 ```
 python train.py
 ```
-如果模型训练意外终止，或者想添加训练的轮次，可以运行如下命令：
+如果模型训练意外终止，或者想添加训练的轮次，可以在终端输入如下命令：
 ```
 python retrain.py --checkpoint_path output\checkpoint\checkpoint_epoch_N.pth --epochs M
 # M是最终模型总的训练轮次数（默认为10）
