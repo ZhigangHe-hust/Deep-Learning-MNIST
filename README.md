@@ -69,11 +69,11 @@ pip install numpy==1.23.5
 
 #### Dataset Contents
 
-**Number of images**: 70,000 grayscale images
-**Training dataset**: 60,000 images
-**Test dataset**: 10,000 images
-**Image format**: 28x28 grayscale images
-**Labels**: Each image has a number label from 0 to 9
+**Number of images**: 70,000 grayscale images <br>
+**Training dataset**: 60,000 images <br>
+**Test dataset**: 10,000 images <br>
+**Image format**: 28x28 grayscale images <br>
+**Labels**: Each image has a number label from 0 to 9 <br>
 
 #### Data Example
 
