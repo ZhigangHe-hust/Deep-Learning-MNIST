@@ -2,7 +2,7 @@
     <h1 align="center">Deep Learning Practice: MNIST Handwritten Digit Recognition</h1>
 </p>
 
-***
+
 <br>
 <div align="center">
 

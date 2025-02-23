@@ -2,7 +2,7 @@
     <h1 align="center">深度学习实践：MNIST手写数字识别</h1>
 </p>
 
-***
+
 <br>
 <div align="center">
 
