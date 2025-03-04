@@ -41,7 +41,7 @@ python env.py
 ```
 
 The results are as follows (reference):
-![image](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig2.png)
+![image text](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig2.png)
 
 ### 2.Install Pytorch and CUDA
 
@@ -78,7 +78,7 @@ pip install numpy==1.23.5
 ### Data Example
 
 Here is some data from the MNIST dataset:
-![image](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig1.png)
+![image text](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig1.png)
 
 ## Download the dataset
 

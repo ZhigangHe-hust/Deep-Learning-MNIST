@@ -34,7 +34,7 @@ conda activate mnist
 python env.py
 ```
 运行结果如下（参考）：
-![image](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig2.png)
+![image text](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig2.png)
 ### 2.安装Pytorch和cuda
 Pytorch2.1.2和CUDA11.8是基于RTX3060安装的，你可以根据你的显卡型号安装合适版本的Pytorch和CUDA
 ```
@@ -59,7 +59,7 @@ MNIST（Modified National Institute of Standards and Technology）是一个经�
 **标签**：每张图像对应一个 0 到 9 的数字标签<br>
 ### 数据示例
 以下是 MNIST 数据集的示例图像：
-![image](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig1.png)
+![image text](https://github.com/ZhigangHe-hust/Deep-Learning-MNIST/blob/main/figs/fig1.png)
 ## 数据集下载
 MNIST已经集成在了Pytorch中，所以你可以直接通过脚本下载
 ```
